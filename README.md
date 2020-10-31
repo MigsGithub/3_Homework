@@ -7,6 +7,8 @@ https://migsgithub.github.io/3_Homework/
 
 https://github.com/MigsGithub/3_Homework
 
+![](Assets/Screen_Shot.png)
+
 
 ## Acceptance Criteria
 
